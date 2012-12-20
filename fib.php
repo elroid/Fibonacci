@@ -1,5 +1,4 @@
 <?php
-$n = $_GET['n'];
 
 function fib($n){
 	if($n <= 1)
@@ -10,6 +9,5 @@ function fib($n){
 	}
 }
 
-print(""+fib($n));
 ?>
 
