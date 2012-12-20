@@ -7,7 +7,7 @@ class fibTest
 {
 	public function testFirstFibs()
 	{
-		$expected = array(1,1,2,3,52,8);
+		$expected = array(1,1,2,3,5,8);
 		
 		for($i=0; $i<count($expected); $i++)
 		{
